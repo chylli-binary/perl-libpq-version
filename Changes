@@ -1,0 +1,6 @@
+Revision history for Perl extension Libpq::Version.
+
+0.01  Fri Oct 21 06:22:31 2022
+	- original version; created by h2xs 1.23 with options
+		-A -n Libpq::Version
+

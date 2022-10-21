@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Version.xs
+t/Libpq-Version.t
+lib/Libpq/Version.pm
